@@ -1,5 +1,5 @@
-import lombok.Employee;
-import lombok.LombokEmployeeData;
+import models.Employee;
+import models.LombokEmployeeData;
 import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
